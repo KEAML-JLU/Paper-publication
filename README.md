@@ -5,7 +5,6 @@ The source code of "Vpalg: Paper-publication prediction with graph neural networ
 ```
 python train.py
 ```
-More commands can be found in script.sh
 
 ## Cite
 If you find our work can help your research, please cite our work! <br>
